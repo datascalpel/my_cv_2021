@@ -19,19 +19,17 @@ Contact Info {#contact}
 - <i class="fa fa-envelope"></i> drsamarthpatel@gmail.com
 - <i class="fa fa-github"></i> [github.com/datascalpel](https://github.com/datascalpel)
 - <i class="fa fa-phone"></i> +91 8828548257
-- <i class="fa fa-twitter"></i> [twitter.com/data_scalpel](https://twitter.com/data_scalpel)
+- <i class="fa fa-twitter"></i> [https://twitter.com/smrth_patel](https://twitter.com/smrth_patel)
 - <i class="fa fa-linkedin"></i> https://www.linkedin.com/in/samarth
 - DOB November 4th, 1992
-- 3001, Type III Building, Seven Hills Hospital, Andheri East, Mumbai, India 400059
+- 601, Royal Accord, Shivaji Park, Dadar West, Mumbai, India 400028
 
 
 Nonsurgical Skills {#skills}
 --------------------------------------------------------------------------------
 
-+ Experienced in statistical analysis with Microsoft Excel, SPSS, and R.
-+ Data wrangling with tidyverse, Data Visualization with ggplot2
-+ Reproducible Research With R markdown.This CV is written by me in R markdown.
-+ Regression analysis in R 
++ Statistical analysis with Microsoft Excel, SPSS, and R.
++ Reproducible Research With R markdown.
 
 Language Fluency
 --------------------------------------------------------------------------------
@@ -40,12 +38,10 @@ Language Fluency
 - Gujarati **Native/Functionally Native**
 - Hindi **Native/Functionally Native**
 - Marathi **Basic**
-- Sanskrit **Intermediate**
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).
 
 Last updated on `r Sys.Date()`.
 
@@ -57,9 +53,40 @@ Main
 **Samarth Patel M.B.B.S. , M.S. General SUrgery** {#title}
 --------------------------------------------------------------------------------
 
-### Actively seeking for a clinical/translational research position
+### Incoming Surgical Nutrition Fellow at the Univristy of Miami/Jackson Memorial Hospital
 
-General Surgery Post graduate (**PGY 5**) from Mumbai, India |Avid Data science learner and R programmer | ECFMG Certified | USMLE Step 1 Score 253 | USMLE step 2CK Score 253 | ***NRMP Match General Surgery/CT Surgery Residency*** in the USA | Cricket and Table Tennis | Hiking, Cycling Enthusiastic
+General Surgery Post graduate (**PGY 5**) from Mumbai, India |Avid Data science learner and R programmer | ECFMG Certified | USMLE Step 1 Score 253 | USMLE step 2CK Score 253 | Cricket and Table Tennis | Hiking, Cycling Enthusiast.
+
+
+Surgical  Experience {data-icon=user-md}
+--------------------------------------------------------------------------------
+
+
+### Senior Clinical Associate - Division of GI and HPB Surgery
+
+P.D. Hinduja Hospital and Medical Research Centre
+
+Mumbai, India
+
+15/12/2021 - 30/04/2022
+
+
+### Junior Consultant - General Surgery
+
+Seven Hills Hospital.
+
+Mumbai, India
+
+01/03/2021 - 30/11/2021
+
+
+ ### Full time Assistant Professor cum Lecturer in General Surgery 
+
+King Edward Memorial Hospital
+
+Mumbai, India
+
+01/08/2019 - 12/10/2020 
 
 
 Education {data-icon=graduation-cap data-concise=true}
@@ -110,31 +137,6 @@ Mumbai, India
 April 2021
 
 
-Surgical  Experience {data-icon=user-md}
---------------------------------------------------------------------------------
-
-### Full time Assistant Professor cum Lecturer in General Surgery 
-
-King Edward Memorial Hospital
-
-Mumbai, India
-
-01/08/2019 - 12/10/2020
-
-- Performed a large number of elective and emergency surgeries on a broad range of medical conditions such as GI tract ( perforations, Ischemic Bowel Disease, Liver resections, Splenectomy, Gastrectomy,Colon and Rectum, Perineal Procedures),Breast & Endocrine( Mastectomy, Thyroidectomy, Parathyroidectomy, Pancreatic enucleations,Adrenalectomies),Head and Neck (MRND, Parotidectomy, Hemimandibulectomy, Glossectomy), PVD (minor and Major Amputations, Fasciotomy,Limb revascularization),Laparoscopic Appendectomy, Lap Cholecystectomy, TEP, TAPP hernia Reapairs.
-- Mastered the  Principles and Practice of Surgical Energy.
-
-### Junior Consultant in General Surgery
-
-Seven Hills Hospital.
-
-Mumbai, India
-
-Present - 02/03/2021
-
-- I was consulatnt in-charge of the 20 Bedded Covid ICU at the largest Covid Facility in India (2000 Beds), trained fellow consultants by performing substantial numbers of bedside procedures (Tube thoracostomy, tracheostomy,Suprapubic catheter insertion, Central venous catheterization,Hemodialysis port insertion) and Mechanical Ventilator operations for ARDS
-  
-
 Honors and Awards {data-icon=award}
 --------------------------------------------------------------------------------
 
@@ -173,13 +175,6 @@ Mumbai, India
 
 March 218
 
-### Inguinal Hernia live Operative Workshop and CME
-
-Mumbai Surgical Society and ASI
-
-Mumbai, India
-
-August 2018
 
 ### Clinical Research Methods workshop
 
@@ -188,6 +183,16 @@ Department of Pharmacology, Seth G.S.Medical College.
 Mumbai, India
 
 July 2018
+
+
+### Inguinal Hernia live Operative Workshop and CME
+
+Mumbai Surgical Society and ASI
+
+Mumbai, India
+
+August 2018
+
 
 ### Multidisciplinary Solution to rare and not so rare Breast and Thyroid Issues, live operative workshop 
 
@@ -220,12 +225,3 @@ Jan 2019
 
 Rege S, Singh Amiteshwar,**Patel S**, Vairagar S
 
-### Retrosternal Goiter:When do we need a sternotomy?
-
-A case series (In submission) 
-
-N/A
-
-Aug 2021
-
-Garale M, Dalvi A, **Patel S**,Mathai G, Desai A.
