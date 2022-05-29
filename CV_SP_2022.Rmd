@@ -17,15 +17,15 @@ Contact Info {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> drsamarthpatel@gmail.com
-- <i class="fa fa-github"></i> [github.com/datascalpel](https://github.com/datascalpel)
+- <i class="fa fa-github"></i> ![github.com/datascalpel](https://github.com/datascalpel)
 - <i class="fa fa-phone"></i> +91 8828548257
-- <i class="fa fa-twitter"></i> [https://twitter.com/smrth_patel](https://twitter.com/smrth_patel)
-- <i class="fa fa-linkedin"></i> https://www.linkedin.com/in/samarth
+- <i class="fa fa-twitter"></i> ![https://twitter.com/smrth_patel](https://twitter.com/smrth_patel)
+- <i class="fa fa-linkedin"></i> !https://www.linkedin.com/in/samarth
 - DOB November 4th, 1992
-- 601, Royal Accord, Shivaji Park, Dadar West, Mumbai, India 400028
+- A/18, Someshwar Tenements, Ranip, Ahmedabad, India 382480
 
 
-Nonsurgical Skills {#skills}
+Non-Surgical Skills {#skills}
 --------------------------------------------------------------------------------
 
 + Statistical analysis with Microsoft Excel, SPSS, and R.
@@ -50,12 +50,12 @@ Last updated on `r Sys.Date()`.
 Main
 ================================================================================
 
-**Samarth Patel M.B.B.S. , M.S. General SUrgery** {#title}
+**Samarth Patel** {#title}
 --------------------------------------------------------------------------------
 
-### Incoming Surgical Nutrition Fellow at the Univristy of Miami/Jackson Memorial Hospital
+### Incoming Surgical Nutrition and Intestinal Fellow at the Univristy of Miami/Jackson Memorial Hospital
 
-General Surgery Post graduate (**PGY 5**) from Mumbai, India |Avid Data science learner and R programmer | ECFMG Certified | USMLE Step 1 Score 253 | USMLE step 2CK Score 253 | Cricket and Table Tennis | Hiking, Cycling Enthusiast.
+ECFMG Id : 1-084-626-9 (Date Issued August 31, 2021) 
 
 
 Surgical  Experience {data-icon=user-md}
@@ -82,7 +82,7 @@ Mumbai, India
 
  ### Full time Assistant Professor cum Lecturer in General Surgery 
 
-King Edward Memorial Hospital
+King Edward Memorial (KEM) Hospital
 
 Mumbai, India
 
@@ -100,11 +100,11 @@ Ahmedabad, India
 
 2010-2016
 
-Here is the [link to my Graduate Valedictorian speech](https://www.youtube.com/watch?v=JVjqGJvdVJ8) 
+Here is the ![link to my Graduate Valedictorian speech](https://www.youtube.com/watch?v=JVjqGJvdVJ8) 
 
-### Seth G.S.Medical College and KEM Hospital, MUHS
+### Seth G.S.Medical College and KEM Hospital 
 
-M.S. in General Surgery
+M.S. General Surgery
 
 Mumbai, India
 
@@ -114,7 +114,7 @@ Thesis: Factors Predicting Outcomes in Necrotizing Soft Tissue Infections(NSTIs)
 
 ### USMLE Step 1 
 
-Scored 253 (First Attempt)
+Scored 253 
 
 Mumbai, India
 
@@ -122,7 +122,7 @@ Sept 2020
 
 ### USMLE step 2CK 
 
-Scored 253 (First Attempt)
+Scored 253 
 
 Ahmedabad, India
 
@@ -130,7 +130,7 @@ March 2021
 
 ### Occupational English Test (OET) Medicine 
 
-400/450/400/380 (First Attempt)
+400/450/400/380 
 
 Mumbai, India
 
@@ -142,13 +142,13 @@ Honors and Awards {data-icon=award}
 
 ### Second Position , *Surgical-Quiz*
 
-The Association of Surgeons of India.
+The Association of Surgeons of India (ASI)
 
 Mumbai, India
 
 Dec 2018
 
-### National Rank 59 out of >96,000 Students
+### National Rank 59 out of 96000 students (top 0.06% )
 
 All India Post Graduation Medical Entrace Examination (AIPGME).
 
