@@ -29,7 +29,7 @@ Non-Surgical Skills {#skills}
 --------------------------------------------------------------------------------
 
 + Statistical analysis with Microsoft Excel, SPSS, and R.
-+ Reproducible Research With R markdown.
++ Reproducible research with R markdown.
 
 Language Fluency
 --------------------------------------------------------------------------------
@@ -58,8 +58,15 @@ Main
 ECFMG Id : 1-084-626-9 (Date Issued August 31, 2021) 
 
 
-Surgical  Experience {data-icon=user-md}
+Professional  Experience {data-icon=user-md}
 --------------------------------------------------------------------------------
+### Part time Consultant Surgeon ###
+
+Jai Hind Healthcare
+
+Charkhi Dadri, HarIndia
+
+10/05/2022 - Present
 
 
 ### Senior Clinical Associate - Division of GI and HPB Surgery
@@ -80,7 +87,19 @@ Mumbai, India
 01/03/2021 - 30/11/2021
 
 
- ### Full time Assistant Professor cum Lecturer in General Surgery 
+### Took a vacation ###
+
+NA
+
+Ahmedabad,India
+
+13/10/2020 - 01/03/2022
+ 
+ 
+
+
+
+### Full time Assistant Professor cum Lecturer in General Surgery 
 
 King Edward Memorial (KEM) Hospital
 
